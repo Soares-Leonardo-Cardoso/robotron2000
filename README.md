@@ -1,2 +1,1 @@
-# robotron2000
-monte seu robô
+# robotron-2000
